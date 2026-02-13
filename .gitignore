@@ -78,3 +78,6 @@ coverage.xml
 poll-api-flow.html
 poll-system-erd.html
 
+# Deployment folders & files
+deployment/
+
